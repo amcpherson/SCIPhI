@@ -37,6 +37,8 @@
 #include <cassert>
 #include <unordered_map>
 
+#include <math.h>
+
 #include "noise_counts.h"
 #include "logScores.h"
 #include "attachmentScores.h"
